@@ -19,7 +19,7 @@ A simple web application built using Java Servlets and JDBC that allows users to
 - Java (Servlets - Jakarta EE)
 - JSP
 - JDBC (MySQL)
-- Apache Tomcat (or any Servlet container)
+- Apache Tomcat 
 - Maven
 
 ---
